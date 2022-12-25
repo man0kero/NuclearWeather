@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nuclear Weather</string>
+    <string name="min">мін</string>
+    <string name="max">макс</string>
+    <string name="feels">відчувається</string>
+    <string name="location">Розташування</string>
+    <string name="m_s">м/с</string>
+    <string name="km_h">км/год</string>
+    <string name="mmhg">мм</string>
+    <string name="hpa">гПа</string>
+    <string name="feels_like">Відчувається як</string>
+    <string name="morn">ранок</string>
+    <string name="day">день</string>
+    <string name="eve">вечір</string>
+    <string name="night">ніч</string>
+    <string name="humidity">Волога</string>
+    <string name="wind_dir">Напрямок вітру</string>
+    <string name="sunrise">Світанок</string>
+    <string name="sunset">Захід</string>
+    <string name="temperature">Температура</string>
+    <string name="wind_speed">Швидкість вітру</string>
+    <string name="wind_speed_mu_ms">%1$s м/с</string>
+    <string name="wind_speed_mu_kmh">%1$s км/ч</string>
+    <string name="pressure_mu_hpa">%1$s гПа</string>
+    <string name="pressure_mu_mmHg">%1$s мм р.с.</string>
+    <string name="loading_actual_data">Завантаження</string>
+    <string name="pressure">Тиск</string>
+</resources>
